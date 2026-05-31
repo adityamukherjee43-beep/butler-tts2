@@ -1,4 +1,4 @@
-rom fastapi import FastAPI
+from fastapi import FastAPI
 from fastapi.responses import FileResponse
 import edge_tts
 import uuid
